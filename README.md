@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/osint-banner.png" alt="A small kitten sitting on a dark throne surrounded by fire" width="498">
+  <img src="assets/osint-banner.png" alt="A small kitten sitting on a dark throne surrounded by fire" width="198">
 </p>
 
 <p align="center">
