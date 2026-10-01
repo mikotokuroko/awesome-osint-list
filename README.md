@@ -39,7 +39,6 @@ OSINT brings together information from publicly available sources to support res
 
 ## Research collections
 
-- [Awesome OSINT](https://github.com/jivoi/awesome-osint) - A broad directory of OSINT tools and resources.
 - [Dark Web OSINT Tools](https://github.com/apurvsinghgautam/dark-web-osint-tools) - A collection of resources for dark-web research.
 - [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A reference collection of manuals, cheat sheets, technical resources, and command-line tools.
 
@@ -54,7 +53,7 @@ These projects extend beyond public-source research into general security toolin
 
 ## Other references
 
-- [sgkrank](https://github.com/xgit01/sgkrank) - A Chinese-language directory of personal-data lookup databases. Included as a reference from the original collection, rather than as a verified public-source research tool.
+- [sgkrank](https://github.com/xgit01/sgkrank) - 中国社工库大全
 
 ## Contributing
 
