@@ -10,8 +10,6 @@
 
 > A collection of open-source intelligence tools, research resources, and related security projects.
 
-OSINT brings together information from publicly available sources to support research and analysis. This list collects 14 projects, organized by purpose, with links to their original repositories.
-
 ## Contents
 
 - [Username and account research](#username-and-account-research)
